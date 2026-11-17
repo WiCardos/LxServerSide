@@ -30,5 +30,6 @@
         <li><a href="{{ route('users.add') }}">Adicionar Utilizador</a></li>
         <li><a href="{{ route('tasks.all') }}">Tasks</a></li>
         <li><a href="{{ route('tasks.add') }}">Adicionar Task</a></li>
+        <li><a href="{{ route('gifts.all') }}">Prendas de Natal</a></li>
     </ul>
 @endsection
